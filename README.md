@@ -33,8 +33,8 @@
 
 ---
 ## 🗝️ Licence key
-- 🔐 Licence key - `FIREWALLBREAKER`
-- 📌 Instagram Username `sudo_xploit`
+- 🔐 Licence key - `IMAD AKHTAR`
+- 📌 Instagram Username `akhtarimad69`
   
 - 👉 [Instagram](https://www.instagram.com/sudo_xploit?igsh=MWN0YWc3N2JyenhoNw==)
 
@@ -142,11 +142,11 @@
 
 | Platform | Command |
 |----------|---------|
-| **Ubuntu / Debian / Kali** | `sudo apt install -y python3 adb scrcpy git && git clone https://github.com/thakur2309/PAGASUS-PRO.git && cd PAGASUS-PRO && pip3 install -r requirements.txt && python3 pegasus_v_1.3.py` |
-| **Arch / Manjaro / BlackArch** | `sudo pacman -S python android-tools scrcpy git && git clone https://github.com/thakur2309/PAGASUS-PRO.git && cd PAGASUS-PRO && pip install -r requirements.txt && python3 pegasus_v_1.3.py` |
-| **macOS** | `brew install python android-platform-tools scrcpy git && git clone https://github.com/thakur2309/PAGASUS-PRO.git && cd PAGASUS-PRO && pip3 install -r requirements.txt && python3 pegasus_v_1.3.py` |
-| **Windows** | Install Python + ADB manually (see guide below), then: `git clone https://github.com/thakur2309/PAGASUS-PRO.git && cd PAGASUS-PRO && pip install -r requirements.txt && python pegasus_v_1.3.py` |
-| **📱 Termux (Android)** | `pkg update && pkg install python git android-tools && git clone https://github.com/thakur2309/PAGASUS-PRO.git && cd PAGASUS-PRO && pip install -r requirements.txt && python pegasus_v_1.3.py` |
+| **Ubuntu / Debian / Kali** | `sudo apt install -y python3 adb scrcpy git && git clone https://github.com/Imadakhtar069/PAGASUS-PRO.git && cd PAGASUS-PRO && pip3 install -r requirements.txt && python3 pegasus_v_1.3.py` |
+| **Arch / Manjaro / BlackArch** | `sudo pacman -S python android-tools scrcpy git && git clone https://github.com/Imadakhtar069/PAGASUS-PRO.git && cd PAGASUS-PRO && pip install -r requirements.txt && python3 pegasus_v_1.3.py` |
+| **macOS** | `brew install python android-platform-tools scrcpy git && git clone https://github.com/Imadakhtar069/PAGASUS-PRO.git && cd PAGASUS-PRO && pip3 install -r requirements.txt && python3 pegasus_v_1.3.py` |
+| **Windows** | Install Python + ADB manually (see guide below), then: `git clone https://github.com/Imadakhtar069/PAGASUS-PRO.git && cd PAGASUS-PRO && pip install -r requirements.txt && python pegasus_v_1.3.py` |
+| **📱 Termux (Android)** | `pkg update && pkg install python git android-tools && git clone https://github.com/Imadakhtar069/PAGASUS-PRO.git && cd PAGASUS-PRO && pip install -r requirements.txt && python pegasus_v_1.3.py` |
 
 ---
 
@@ -179,7 +179,7 @@ sudo apt install nmap -y
 
 **Step 6 — Clone the repository**
 ```bash
-git clone https://github.com/thakur2309/PAGASUS-PRO.git
+git clone https://github.com/Imadakhtar069/PAGASUS-PRO.git
 cd PAGASUS-PRO
 ```
 
@@ -220,7 +220,7 @@ sudo pacman -S nmap
 
 **Step 5 — Clone the repository**
 ```bash
-git clone https://github.com/thakur2309/PAGASUS-PRO.git
+git clone https://github.com/Imadakhtar069/PAGASUS-PRO.git
 cd PAGASUS-PRO
 ```
 
@@ -330,7 +330,7 @@ winget install Python.Python.3 Google.PlatformTools Genymobile.scrcpy Git.Git
 
 Open **Command Prompt** or **PowerShell**:
 ```powershell
-git clone https://github.com/thakur2309/PAGASUS-PRO.git
+git clone https://github.com/Imadakhtar069/PAGASUS-PRO.git
 cd PAGASUS-PRO
 ```
 
@@ -393,7 +393,7 @@ brew install nmap
 
 **Step 6 — Clone the repository**
 ```bash
-git clone https://github.com/thakur2309/PAGASUS-PRO.git
+git clone https://github.com/Imadakhtar069/PAGASUS-PRO.git
 cd PAGASUS-PRO
 ```
 
@@ -456,7 +456,7 @@ pkg install nmap -y
 
 **Step 6 — Clone the repository**
 ```bash
-git clone https://github.com/thakur2309/PAGASUS-PRO.git
+git clone https://github.com/Imadakhtar069/PAGASUS-PRO.git
 cd PAGASUS-PRO
 ```
 
@@ -749,25 +749,14 @@ It helps others find the project and motivates continued development.
 ---
 
 👨‍💻 **Author**  
-- Made with ❤️ by **thakur2309** 
-- Name: **Alok Thakur**  
-- YouTube: [🔥 Firewall Breaker](https://www.youtube.com/@FirewallBreaker09)
+- Made with ❤️ by **Imadakhtar069** 
+- Name: **Imad Akhtar**  
+- Instagram: [🔥 akhtarimad069](https://www.instagram.com/akhtarimad69?stkn=cjduMW9mOGM3b2px)
 
 ---
 ## 📌 Contact Me  
 
-<a href="https://youtube.com/@firewallbreaker09">
-  <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube">
-</a>  
-<br>  
 
-<a href="https://github.com/thakur2309?tab=repositories">
-  <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
-</a>  
-<br>  
-
-<a href="https://whatsapp.com/channel/0029VbAiqVMKLaHjg5J1Nm2F">
-  <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp Channel">
 </a>
 
 
